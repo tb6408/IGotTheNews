@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBWzssqxzW29cYq6U2xY1xWqtVO/GE3bee20UspxbT3w5Gi61U0YssfysualFyOw9opM/o6APHEbjkmqFoD+sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tb640\\Documents\\Repos\\IGotTheNews\\IGotTheNews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tb640\\.nuget\\packages\\system.servicemodel.syndication\\7.0.0\\system.servicemodel.syndication.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
